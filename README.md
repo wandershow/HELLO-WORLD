@@ -9,5 +9,5 @@ I know a few about java and OOP
 I know a bit of PHP
 I know a few about sql or PostgreSQL.
 
-So I guess it is, if you want know anymore send me a e-mail
+So I guess it is, if you want know anymore send me an e-mail
 wandersonfonsecadasilva@gmail.com
