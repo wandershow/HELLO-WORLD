@@ -1,5 +1,5 @@
 # HELLO-WORLD
-learning to use Github
+learning how using Github.
 Hello! My name is Wanderson !
 I am student of I.T at IFRS-Rio grande on course of Analytics, Developing Systems.
 I always a lover of development of systems.
